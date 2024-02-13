@@ -44,7 +44,7 @@
                         </g>
                     </svg>
                 </div>
-        <h1 class="color:red">Demo Github dengan Replit</h1>
+        <h1 class="color:red">Contoh Demo remote koding</h1>
 
             </div>
         </div>
